@@ -1,0 +1,10 @@
+.pants.d/
+dist/
+.pid/
+__pycache__
+*.pyc
+localdev-json
+node_modules
+ideaproject
+.idea/
+sf_device/.gitignore
